@@ -66,3 +66,6 @@ def process(players, number, max_amount, message):
                 bot.send_message(message, f"Конфет на столе: {number}")
                 players.remove(player)
                 return players[0][0]
+
+def test():
+    print("test")
