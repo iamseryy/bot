@@ -18,3 +18,6 @@ def setup_logger():
     console.setFormatter(formatter)
     # add the handler to the root logger
     logging.getLogger('').addHandler(console)
+
+
+    # first line to remove
