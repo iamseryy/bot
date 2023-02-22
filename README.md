@@ -6,3 +6,7 @@ hometask for git studing
 
 
 this line should be removed second
+
+
+
+this line should be removed third
