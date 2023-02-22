@@ -5,3 +5,4 @@ hometask for git studing
 
 
 
+this line should be removed second
