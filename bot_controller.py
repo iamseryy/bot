@@ -107,3 +107,7 @@ def check_user_message(message):
 
 def send_message(message, mess):
     bot.send_message(message.chat.id, mess)
+
+
+def test_1():
+    print("for third revert")
